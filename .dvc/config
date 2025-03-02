@@ -1,0 +1,6 @@
+[core]
+    remote = dvcremote
+['remote "myremote"']
+    url = ../S3
+['remote "dvcremote"']
+    url = ../S3
